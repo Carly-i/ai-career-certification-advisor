@@ -40,3 +40,6 @@ Creative Apps
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## Demo Video
+https://www.youtube.com/watch?v=O3X3lAbXN4U
