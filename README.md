@@ -32,6 +32,9 @@ Creative Apps
 - CV project recommendation
 - Grounded knowledge base display
 
+## Architecture Diagram
+
+![Architecture Diagram](architecture-diagram.png)
 ## How to Run
 
 ```bash
